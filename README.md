@@ -1,7 +1,8 @@
 
 Template Engine
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![demonstration](Screen-Shots/Capture.PNG)](https://drive.google.com/file/d/15i1ja7UV3SlbEtk4To2D0CEKtXnSzT1h/view)
+[![Screen Shot of Template](Screen-Shots/Capture.PNG)]
+[![demonstration](Screen-Shots/demo.gif)](https://drive.google.com/file/d/15i1ja7UV3SlbEtk4To2D0CEKtXnSzT1h/view)
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
